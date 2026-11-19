@@ -1,4 +1,4 @@
-# CSE111 – Programming Language II (BRAC University)
+# CSE111 (Summer 2023) – Programming Language II (BRAC University)
 
 Lab assignments from CSE111, BRAC University's object-oriented programming
 course in Python. Covers classes and objects, method overloading,
